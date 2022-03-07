@@ -3,4 +3,4 @@
 ###### Second Push From Local
 --- 
 ###### Brought to you by:
-###### git remote set-url origin https://TTKHScriptPoetry@github.com/TTKHScriptPoetry/KUBC_Q2_Inception.git
+###### Run *git remote set-url origin https://TTKHScriptPoetry@github.com/TTKHScriptPoetry/KUBC_Q2_Inception.git*
